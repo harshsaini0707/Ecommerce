@@ -2,7 +2,8 @@
 
 A modern, full-stack e-commerce application built with React, Express, and MongoDB.
 
-![Hero](https://via.placeholder.com/1200x400?text=Ecommerce+Platform)
+![Hero]<img width="1545" height="937" alt="Screenshot 2025-11-07 172934" src="https://github.com/user-attachments/assets/fcdec0cb-3335-497e-9e4b-4511eee61f66" />
+
 
 ## ⚡ Quick Start
 
