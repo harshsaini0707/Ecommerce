@@ -16,7 +16,7 @@ updatedAt :Date;
 } 
 
 const cartItemSchema =  new mongoose.Schema<ICartItem>({
-
+    
     productId:{
         type : Number,
         required:true
