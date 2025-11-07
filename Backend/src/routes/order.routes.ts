@@ -1,7 +1,8 @@
 import express from "express";
-import { checkout, getOrder } from "../controllers/order.controllers";
+import { checkout, getOrder, getOrders } from "../controllers/order.controllers";
 
 export const orderRouter = express.Router();
 
-orderRouter.get("/" ,checkout);
-orderRouter.get("/" , getOrder);
+orderRouter.post("/" ,checkout);
+orderRouter.get("/" , getOrders);
+orderRouter.get("/:orderId" , getOrder)
