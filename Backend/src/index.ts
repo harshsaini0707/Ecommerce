@@ -14,9 +14,9 @@ app.use(cors());
 app.use(express.json());
 
 
-app.use("/" ,  productRouter);
-app.use("/" ,  cartRouter);
-app.use("/" , orderRouter)
+app.use("/api/products" ,  productRouter);
+app.use("/api/cart" ,  cartRouter);
+app.use("/api/checkout" , orderRouter)
 
 connectDB().then(()=>{
     app.listen(PORT , ()=>{
