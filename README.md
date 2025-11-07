@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce application built with React, Express, and MongoDB.
 
-[Uploading Screenshot 2025-11-07 172413.png…]()
+![Hero][Uploading Screenshot 2025-11-07 172413.png…]()
 
 
 
@@ -166,15 +166,17 @@ cd Backend && npm run build && npm start
 
 ## 📸 Screenshots
 
-![Home Page](https://via.placeholder.com/800x600?text=Home+Page)
+![Products](<img width="1899" height="927" alt="Screenshot 2025-11-07 172429" src="https://github.com/user-attachments/assets/ae9a246d-8fb9-4ece-8312-e633d1673498" />
+)
 
-![Products](https://via.placeholder.com/800x600?text=Product+Grid)
+![Cart](<img width="1803" height="933" alt="Screenshot 2025-11-07 172516" src="https://github.com/user-attachments/assets/ebfe7bc4-a844-4e40-ae8e-390f5fe50853" />
+)
 
-![Cart](https://via.placeholder.com/800x600?text=Shopping+Cart)
+![Checkout]<img width="1692" height="917" alt="Screenshot 2025-11-07 172603" src="https://github.com/user-attachments/assets/1dcfec4e-65e9-48e7-ae12-6ce897d13c88" />
+)
 
-![Checkout](https://via.placeholder.com/800x600?text=Checkout+Form)
-
-![Receipt](https://via.placeholder.com/800x600?text=Order+Confirmation)
+![Receipt](<img width="1636" height="933" alt="Screenshot 2025-11-07 172921" src="https://github.com/user-attachments/assets/d551d57e-ee5e-4b4a-9e3a-868171b38b92" />
+)
 
 ---
 
