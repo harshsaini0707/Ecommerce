@@ -1,8 +1,9 @@
-# 🛍️ Ecommerce Platform
+<img width="1899" height="929" alt="Screenshot 2025-11-07 172413" src="https://github.com/user-attachments/assets/fa4dd4c5-a9c8-498f-9d20-12fc34cf1829" /># 🛍️ Ecommerce Platform
 
 A modern, full-stack e-commerce application built with React, Express, and MongoDB.
 
-![Hero]<img width="1545" height="937" alt="Screenshot 2025-11-07 172934" src="https://github.com/user-attachments/assets/fcdec0cb-3335-497e-9e4b-4511eee61f66" />
+[Uploading Screenshot 2025-11-07 172413.png…]()
+
 
 
 ## ⚡ Quick Start
