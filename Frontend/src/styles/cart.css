@@ -1,0 +1,11 @@
+.cart-page {
+  min-height: calc(100vh - 70px);
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .cart-page {
+    padding: 1rem 0;
+  }
+}
